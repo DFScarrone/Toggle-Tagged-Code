@@ -132,6 +132,16 @@ const commentPatterns = {
 
 ---
 
+## 📷 Capturas de pantalla
+
+![Captura de pantalla 325](Captura%20de%20pantalla%20(325).png)
+![Captura de pantalla 326](Captura%20de%20pantalla%20(326).png)
+![Captura de pantalla 327](Captura%20de%20pantalla%20(327).png)
+![Captura de pantalla 328](Captura%20de%20pantalla%20(328).png)
+![Captura de pantalla 329](Captura%20de%20pantalla%20(329).png)
+
+---
+
 ## 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! Si encuentras errores o tienes ideas para mejorar la extensión, abre un **issue** o envía un **pull request** en el [repositorio de GitHub](#).
 
