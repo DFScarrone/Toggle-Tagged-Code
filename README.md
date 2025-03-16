@@ -1,7 +1,7 @@
 
 # Toggle Tagged Code
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue) ![License](https://img.shields.io/badge/license-MIT-green)
+&#x20;
 
 **Toggle Tagged Code** es una extensión de Visual Studio Code diseñada para comentar y descomentar bloques de código etiquetados de forma rápida y eficiente. Es ideal para manejar grandes volúmenes de código, depuración (debugging), pruebas condicionales y personalización del comportamiento de un programa.
 
@@ -27,6 +27,7 @@
 ## 💡 Casos de uso
 
 ### 🔍 Debugging
+
 Cuando depuras un programa, es común activar o desactivar partes del código para probar distintos escenarios.
 
 ```javascript
@@ -43,6 +44,7 @@ Con un solo clic, puedes alternar entre el bloque de `debugging` y `producción`
 ---
 
 ### 🧪 Pruebas condicionales
+
 Si tienes múltiples configuraciones o escenarios de prueba, puedes etiquetar cada uno y activarlos/desactivarlos según sea necesario.
 
 ```python
@@ -58,6 +60,7 @@ Esto te permite probar diferentes configuraciones sin modificar el código manua
 ---
 
 ### ⚙️ Personalización del comportamiento
+
 En proyectos grandes, algunas funcionalidades solo deben estar activas en ciertos entornos como desarrollo, producción o staging.
 
 ```javascript
@@ -83,7 +86,7 @@ console.log("Esta función está disponible en producción.");
 O instala directamente desde la línea de comandos:
 
 ```bash
-code --install-extension TU_NOMBRE_DE_USUARIO.toggle-tagged-code
+code --install-extension DFScarrone.toggle-tagged-code
 ```
 
 ---
@@ -91,9 +94,11 @@ code --install-extension TU_NOMBRE_DE_USUARIO.toggle-tagged-code
 ## 📝 Uso
 
 ### 📌 Etiquetar bloques de código
+
 Para etiquetar un bloque de código, agrega un comentario en la línea anterior con este formato:
 
 #### JavaScript:
+
 ```javascript
 // @tag:nombre-de-la-etiqueta
 console.log("Este es un bloque de código etiquetado.");
@@ -101,6 +106,7 @@ console.log("Puedes activarlo o desactivarlo fácilmente.");
 ```
 
 #### Python:
+
 ```python
 # @tag:nombre-de-la-etiqueta
 print("Este es un bloque de código etiquetado.")
@@ -120,6 +126,7 @@ print("Puedes activarlo o desactivarlo fácilmente.")
 ---
 
 ## 🎨 Personalización
+
 Puedes modificar los prefijos de comentario para diferentes lenguajes en el código fuente.
 
 ```typescript
@@ -134,15 +141,16 @@ const commentPatterns = {
 
 ## 📷 Capturas de pantalla
 
-![Captura de pantalla 325](Captura%20de%20pantalla%20(325).png)
-![Captura de pantalla 326](Captura%20de%20pantalla%20(326).png)
-![Captura de pantalla 327](Captura%20de%20pantalla%20(327).png)
-![Captura de pantalla 328](Captura%20de%20pantalla%20(328).png)
-![Captura de pantalla 329](Captura%20de%20pantalla%20(329).png)
+
+
+
+
+
 
 ---
 
 ## 🤝 Contribuciones
+
 ¡Las contribuciones son bienvenidas! Si encuentras errores o tienes ideas para mejorar la extensión, abre un **issue** o envía un **pull request** en el [repositorio de GitHub](#).
 
 ---
@@ -154,6 +162,7 @@ Este proyecto está bajo la licencia **MIT**.
 ---
 
 ## 🙏 Agradecimientos
+
 Inspirado en herramientas similares para gestionar bloques de código. ¡Gracias a la comunidad de VS Code por su apoyo continuo!
 
 ---
