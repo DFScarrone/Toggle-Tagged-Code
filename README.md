@@ -141,8 +141,15 @@ const commentPatterns = {
 
 ## 📷 Capturas de pantalla
 
+![Búsqueda de extensión](imagenes/Captura%20de%20pantalla%20(325).png)  
 
+![Muestra de bloques etiquetados](imagenes/Captura%20de%20pantalla%20(326).png)  
 
+![Selección de etiquetas](imagenes/Captura%20de%20pantalla%20(327).png)  
+
+![Selección de etiquetas](imagenes/Captura%20de%20pantalla%20(328).png)  
+
+![Bloque comentado](imagenes/Captura%20de%20pantalla%20(329).png)  
 
 
 
